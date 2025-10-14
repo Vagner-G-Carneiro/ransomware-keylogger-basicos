@@ -42,6 +42,8 @@ O envio de e-mails pode exigir configuração de senha de app no Gmail.
 
 O ransomware simula criptografia com Fernet e não realiza propagação ou persistência.
 
+Talvez seu anti-vírus não deixe o projeto ser executado ou mostre erros/ameaças.
+
 📚 Referências
 Documentação oficial do Python: https://docs.python.org/3/
 

@@ -1,0 +1,19 @@
+Google
+Usuario: abcdefg
+Senha: gitHubLoginoogleLogin/*$
+
+Facebook
+Usuario: abcdefg
+Senha: FacebookLogin/*$
+
+Instagram
+Usuario: abcdefg
+Senha: InstagramLogin/*$
+
+GtiHub
+Usuario: abcdefg
+Senha: GitHubLogin/*$
+
+Windows
+Usuario: abcdefg
+Senha: WindowsLogin/*$
